@@ -17,8 +17,8 @@ const Detail = () => {
     <>
       <Navbar />
       <div className="mt-24 container mx-auto">
-        <div className="max-w-5xl mx-auto">
-          <div className="card card-side bg-base-100 shadow-xl">
+        <div className="max-w-5xl mx-auto ">
+          <div className="card card-side bg-base-300 shadow-xl">
             <figure>
               <img
                 src={book?.thumbnailUrl}
